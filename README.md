@@ -23,6 +23,6 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 ## Dataset Used
 I use Kaggle dataset about credit card , we can use any dataset
-## Complete Video Tutorial 
+## Complete Video Tutorial that I learn from
 
 Video Link - https://www.youtube.com/embed/KerNf0NANMo
